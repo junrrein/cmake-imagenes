@@ -1,1 +1,1 @@
-#agregar_ejercicio (mostrar_imagen)
+agregar_ejercicio (ejercicio_1)
