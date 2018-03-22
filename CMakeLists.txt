@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3)
 
-project(cmake-mecancomp)
+project(cmake-imagenes)
 
 # Dependencias
 find_package (OpenCV REQUIRED)
