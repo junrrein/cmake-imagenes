@@ -8,7 +8,7 @@ int main()
     const std::string ruta = config::sourceDir + "/ejemplos/Lenna.png";
 
     Mat image;
-    image = imread(ruta, 1);
+    image = imread(ruta);
 
     if (image.data == nullptr) {
         throw std::runtime_error("No se puedo cargar la imagen");
